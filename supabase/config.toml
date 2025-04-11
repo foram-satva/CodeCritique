@@ -1,0 +1,5 @@
+
+project_id = "cciymjqkuqojzidqprbg"
+
+[functions.phone-auth]
+verify_jwt = false
